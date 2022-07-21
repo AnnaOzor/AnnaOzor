@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AnnaOzor
-- 👀 I’m interested in becoming a better .NET software engineer
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on projects that involve problem solving scenarios that would strengthen my programming skills
-- 📫 How to reach me anna.idongesit@gmail.com
+- 👋 Hi, I am Anna Ozor.
+- 👀 I am a Technical Writer with a background in software engineering. I have proficiency in reading, writing and debugging code written in C#, Python, Java, JavaScript, HTML, CSS, SQL.
+- 🌱 Since I have a knack for taking technical concepts and making them understandable to the public, I created a blog https://medium.com/@anna.ozor where I discuss these technical concepts in detail.
+- 💞️ I am looking to take on more technical writing projects that will challenge me and help improve user experience for organizations.
+- 📫 You can reach me on anna.idongesit@gmail.com
 
 <!---
 AnnaOzor/AnnaOzor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
